@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1689172265 source:c:\c++\july\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+

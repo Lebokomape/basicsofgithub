@@ -1,0 +1,3 @@
+Lebogang Komape
+55.89 85.66 92.88 75.55 90.88
+testaverage = 80
